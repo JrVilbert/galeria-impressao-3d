@@ -31,7 +31,7 @@ export const categories: { id: Category; label: string; description: string }[] 
   { 
     id: 'chaveiros', 
     label: 'Chaveiros', 
-    description: 'Chaveiros personalizados, temáticos e brindes corporativos únicos.' 
+    description: 'Chaveiros teste personalizados, temáticos e brindes corporativos únicos.' 
   },
   { 
     id: 'quadros', 
@@ -142,7 +142,7 @@ export const products: Product[] = [
   // Chaveiros
   {
     id: 'cha-1',
-    name: 'Chaveiro Spotify Code',
+    name: 'Chaveiro Spotify teste',
     category: 'chaveiros',
     description: 'Chaveiro escaneável com sua música favorita do Spotify.',
     image: '/images/products/spotify-keychain.jpg',
