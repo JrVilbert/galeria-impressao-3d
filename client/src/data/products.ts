@@ -49,7 +49,7 @@ export const products: Product[] = [
   // Infantil
   {
     id: 'inf-1',
-    name: 'Dinossauro Articulado',
+    name: 'Dinossauro Articulado teste',
     category: 'infantil',
     description: 'T-Rex articulado impresso em uma peça única, flexível e resistente.',
     image: '/images/products/dino-articulated.jpg',
